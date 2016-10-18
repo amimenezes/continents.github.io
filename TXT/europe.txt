@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br, en, it, fr">
+<head>
+	<div align="center">
+		<nav>
+			<a href="Continentes.html">HOME</a>
+			<a href="americas.html">AMERICAS</a>
+			<a href="europe.html">EUROPE</a>
+			<a href="asia.html">ASIA</a>
+			<a href="oceania.html">OCEANIA</a>
+			<a href="africa.html">AFRICA</a>
+		</nav>
+	</div>
+	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+			<!--Adicione sua tag de link aqui!-->
+	<title>CONTINENTES</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body style="margin: 0px;" background="http://s3.amazonaws.com/everystockphoto/fspid20/15/62/49/earth-night-lights-156249-o.jpg"; bgproperties="fixed"> <!--background-repeat: no-repeat;-->
+	<font color="white">
+<h2 id="europe"><a href="">EUROPE</a></h2>
+		<dl>
+			<dt>Ireland</dt>
+				<dd> descrição do Ireland </dd>
+				<br><br>
+			<dt>Italy</dt>
+				<dd> descrição do Italy </dd>
+				<br><br>
+			<dt>Greece</dt>
+				<dd> descrição do Greece</dd>
+				<br><br>
+			<dt>France</dt>
+				<dd> descrição de France </dd>
+				<br><br>
+			<dt>Spain</dt>
+				<dd> descrição do Spain </dd>
+				<br><br>
+</body>
+</html>
