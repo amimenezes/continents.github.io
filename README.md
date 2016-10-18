@@ -1,2 +1,2 @@
-# http://Continents.github.io
+# http://continents.github.io
 My First Page about Continents.
