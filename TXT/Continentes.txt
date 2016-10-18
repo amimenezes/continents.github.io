@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-br, en, it, fr">
+<head>
+	<div align="center">
+		<nav>
+			<a href="#americas">AMERICAS</a>
+			<a href="#europe">EUROPE</a>
+			<a href="#asia">ASIA</a>
+			<a href="#oceania">OCEANIA</a>
+			<a href="#africa">AFRICA</a>
+		</nav>
+	</div>
+	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+			<!--Adicione sua tag de link aqui!-->
+	<title>CONTINENTES</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body style="margin: 0px;" background="https://drive.google.com/drive/folders/0B7-c0pAsHooYWmN0UFNMdEpBMzA"; bgproperties="fixed"> <!--http://s3.amazonaws.com/everystockphoto/fspid20/15/62/49/earth-night-lights-156249-o.jpg ... background-repeat: no-repeat;-->
+	<font color="white">
+	<h1><font color="white" text-align="center">WELCOME TO THE CONTINENTS!</font></h1>
+	<br><br><br>
+		<p>This page it's about the Continents in the World!</p>
+		<br></br>
+		<p>Let's go to the lists!</p>
+		<br></br>
+	<h2 id="americas"><a href="CONTINENTES\americas.html">AMERICAS</a></h2>
+		<dl>
+			<dt>Uruguay</dt>
+				<dd> descrição do Uruguay </dd>
+				<br>
+			<dt>Chile</dt>
+				<dd> descrição do Chile </dd>
+				<br>
+			<dt>Canada</dt>
+				<dd> descrição do Canada</dd>
+				<br>
+			<dt>Cuba</dt>
+				<dd> descrição de Cuba </dd>
+				<br>
+			<dt>Brazil</dt>
+				<dd> descrição do Brazil </dd>
+				<br><br>
+	<h2 id="europe"><a href="CONTINENTES\europe.html">EUROPE</a></h2>
+		<dl>
+			<dt>Ireland</dt>
+				<dd> descrição do Ireland </dd>
+				<br>
+			<dt>Italy</dt>
+				<dd> descrição do Italy </dd>
+				<br>
+			<dt>Greece</dt>
+				<dd> descrição do Greece</dd>
+				<br>
+			<dt>France</dt>
+				<dd> descrição de France </dd>
+				<br>
+			<dt>Spain</dt>
+				<dd> descrição do Spain </dd>
+				<br><br>
+	<h2 id="asia"><a href="CONTINENTES\asia.html">ASIA</a></h2>
+		<dl>
+			<dt>China Popular Republic</dt>
+				<dd> descrição do China Popular Republic </dd>
+				<br>
+			<dt>Israel</dt>
+				<dd> descrição do Israel </dd>
+				<br>
+			<dt>India</dt>
+				<dd> descrição do India</dd>
+				<br>
+			<dt>Bhutan</dt>
+				<dd> descrição de Bhutan </dd>
+				<br>
+			<dt>Japan</dt>
+				<dd> descrição do Japan </dd>
+				<br><br>
+	<h2 id="oceania"><a href="CONTINENTES\oceania.html">OCEANIA</a></h2>
+		<dl>
+			<dt>Australia</dt>
+				<dd> descrição do Australia </dd>
+				<br>
+			<dt>New Zealand</dt>
+				<dd> descrição do New Zealand, Cook Island.</dd>
+				<br>
+			<dt>Papua New Guinea</dt>
+				<dd> descrição do Papua New Guinea</dd>
+				<br>
+			<dt>Fiji</dt>
+				<dd> descrição de Fiji </dd>
+				<br>
+			<dt>Federated States of Micronesia</dt>
+				<dd> descrição do Federated States of Micronesia, EFM, Micronesia. </dd>
+				<br><br>
+	<h2 id="africa"><a href="CONTINENTES\africa.html">AFRICA</a></h2>
+		<dl>
+			<dt>Uruguay</dt>
+				<dd> descrição do Uruguay </dd>
+				<br>
+			<dt>Chile</dt>
+				<dd> descrição do Chile </dd>
+				<br>
+			<dt>Canadá</dt>
+				<dd> descrição do Canadá</dd>
+				<br>
+			<dt>Cuba</dt>
+				<dd> descrição de Cuba </dd>
+				<br>
+			<dt>Brasil</dt>
+				<dd> descrição do Brasil </dd>
+				<br><br>
+		</dl>
+	</font>
+</body>
+</html>
